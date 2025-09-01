@@ -55,7 +55,7 @@ Bike Purchases by Region and Commute Distance
 
 Analysis by Age Bracket
 
-## Dashboard
+## Dashboard:
 Designed an interactive dashboard with:
 
 Bar charts for Bike Purchases by Gender and Marital Status
@@ -66,7 +66,7 @@ Income distribution vs. Bike Purchase status
 
 Age Bracket vs. Bike Purchase
 
-## Key Insights
+## Key Insights:
 
 Higher income customers are more likely to purchase bikes.
 
